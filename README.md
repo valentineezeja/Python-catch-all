@@ -1,2 +1,1 @@
-# Everything_python
-Catch all for python
+# Python-catch-all
